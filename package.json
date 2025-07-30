@@ -1,0 +1,11 @@
+{
+  "name": "com.yourname.strangeioc",
+  "version": "1.0.0",
+  "displayName": "StrangeIoC",
+  "description": "A powerful and flexible Inversion of Control framework for Unity3D.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Onat Korucu",
+    "email": "onat@gmail.com"
+  }
+}
